@@ -15,6 +15,8 @@ Candidates who can articulate this distinction clearly signal maturity to interv
 - README.md: "What is a Forward Deployed Engineer?" — the comparison text and the capability triangle
 - The key contrasts: SE works from a ticket queue; FDE figures out what the ticket should be. Solutions Engineer does pre-sales demos; FDE writes production code and owns delivery outcomes.
 - The three-axis triangle: Engineering (can build it) × Consulting (can diagnose the real problem) × Product Thinking (knows what's worth building)
+- External:
+  - [How Palantir Invented the Forward Deployed Engineer Model](https://fde.academy/blog/how-palantir-invented-the-forward-deployed-engineer-model) — original philosophy behind the role boundaries
 
 ## Teaching objectives
 

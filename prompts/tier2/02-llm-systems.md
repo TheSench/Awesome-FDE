@@ -14,7 +14,10 @@ FDEs are often the first person to make an LLM system actually work inside a cus
 
 - README.md: "Core Skills Required — Technical": LLM APIs and agent frameworks sections
 - Key skills: Anthropic/OpenAI API fluency, tool use, context management, rate-limit handling, LangGraph for stateful agents
-- External: Anthropic Tool Use Guide, Anthropic Prompt Engineering Overview, LangGraph Documentation (referenced in README resources section)
+- External:
+  - [Anthropic Tool Use Guide](https://docs.anthropic.com/en/docs/build-with-claude/tool-use)
+  - [Anthropic Prompt Engineering Overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+  - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
 
 ## Teaching objectives
 

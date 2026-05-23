@@ -14,7 +14,8 @@ RAG (Retrieval-Augmented Generation) is the backbone of most enterprise LLM depl
 
 - README.md: "Core Skills Required — Technical": RAG & vector databases entry
 - Key topics: chunking strategy, embedding selection, retrieval tuning, re-ranking, Pinecone/Weaviate/pgvector
-- External: LangSmith / LLM Evaluation docs (for how to measure RAG quality)
+- External:
+  - [LangSmith Documentation](https://docs.smith.langchain.com/) — for how to instrument and measure RAG quality in production
 
 ## Teaching objectives
 

@@ -16,6 +16,8 @@ The FDE model is not new, but the AI era has dramatically expanded its reach and
 - The contrast between Palantir's original model and what AI labs like Anthropic and OpenAI are doing
 - The range of company types: AI labs, AI application companies (Harvey, Glean, Hebbia), enterprise legacy (Palantir, Anduril)
 - The APAC/China market: FDE-equivalent roles under different titles
+- External:
+  - [The Hottest Tech Role of 2026](https://medium.com/@apoorvdubey757/the-hottest-tech-role-of-2026-forward-deployed-engineer-3b072f600714) — overview of how the FDE market has evolved
 
 ## Teaching objectives
 

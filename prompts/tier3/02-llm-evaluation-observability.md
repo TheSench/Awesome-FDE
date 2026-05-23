@@ -13,7 +13,10 @@ Interview question 9 from the README — "You shipped a solution last week. How 
 ## Resources for this session
 
 - README.md: "Core Skills Required — Technical": evaluation frameworks for LLM outputs entry
-- Tools mentioned: LangSmith, Braintrust, custom evals
+- Tools mentioned:
+  - [LangSmith](https://docs.smith.langchain.com/) — LLM tracing, eval datasets, regression detection
+  - Braintrust — eval dataset management and prompt comparison
+  - Custom evals — project-specific ground truth test suites
 - Interview question 9: "You shipped a solution last week. How do you actually know it's working?"
 
 ## Teaching objectives

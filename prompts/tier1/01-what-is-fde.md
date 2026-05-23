@@ -16,6 +16,9 @@ Before anything else, a learner needs a crisp mental model of what an FDE actual
 - The capability triangle: Engineering × Consulting × Product Thinking
 - Comparison to traditional Software Engineer and Solutions Engineer
 - Compensation context: Palantir ~$238K TC, AI-lab FDE roles $350K–$550K+ TC
+- External:
+  - [How Palantir Invented the Forward Deployed Engineer Model](https://fde.academy/blog/how-palantir-invented-the-forward-deployed-engineer-model) — foundational history and original philosophy
+  - [How to Become a Forward Deployed Engineer in 2026](https://skillscouter.com/how-to-become-a-forward-deployed-engineer/) — practical career path breakdown
 
 ## Teaching objectives
 
