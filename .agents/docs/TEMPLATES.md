@@ -27,8 +27,12 @@ Use when creating `learner/profile.md` for first time:
 | The Palantir-Style Problem Interview | | | | |
 | Interview Preparation & Storytelling | | | | |
 | Crypto/Blockchain → FDE Transition | | | | |
+| Advanced Prompt Engineering | | | | |
+| Multi-Agent Architecture | | | | |
 | Production AI Deployment Patterns | | | | |
 | LLM Evaluation & Observability | | | | |
+| AI Security & Compliance | | | | |
+| LLM Cost Optimization | | | | |
 | Stakeholder Management & Communication | | | | |
 | Advanced Interview Practice | | | | |
 | Case Studies: Healthcare, Finance, Legal AI | | | | |
@@ -82,8 +86,12 @@ Ratings: HIGH, MED, LOW
 | The Palantir-Style Problem Interview | MED | |
 | Interview Preparation & Storytelling | MED | |
 | Crypto/Blockchain → FDE Transition | MED | |
+| Advanced Prompt Engineering | MED | |
+| Multi-Agent Architecture | MED | |
 | Production AI Deployment Patterns | MED | |
 | LLM Evaluation & Observability | MED | |
+| AI Security & Compliance | MED | |
+| LLM Cost Optimization | MED | |
 | Stakeholder Management & Communication | MED | |
 | Advanced Interview Practice | MED | |
 | Case Studies: Healthcare, Finance, Legal AI | MED | |

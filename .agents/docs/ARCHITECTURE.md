@@ -13,7 +13,7 @@ AGENTS.md           ← Development routing guide
 CLAUDE.md           ← Tutorial trigger + pointer to AGENTS.md
 
 prompts/
-  tier1/ … tier4/   ← 23 session prompt files; each covers one topic × tier
+  tier1/ … tier4/   ← 27 session prompt files; each covers one topic × tier
 
 learner/
   profile.md        ← Background + tiers-completed table + session log
@@ -41,8 +41,8 @@ User sends "Start" or "Continue"
 | Tier | Name | Sessions | Focus |
 |------|------|----------|-------|
 | 1 | Orientation | 5 | What FDE is, core skills, interview overview |
-| 2 | Breadth | 7 | Role nuances, LLM systems, RAG, production design, interview depth, crypto transition |
-| 3 | Application | 6 | Deployment patterns, evaluation, stakeholder comms, case studies, portfolio |
+| 2 | Breadth | 9 | Role nuances, LLM systems, RAG, production design, prompt engineering, multi-agent, interview depth, crypto transition |
+| 3 | Application | 8 | Deployment patterns, evaluation, stakeholder comms, AI security, cost optimization, case studies, portfolio |
 | 4 | Specialist | 5 | Enterprise architecture, change management, APAC market, career progression |
 
 ## Key design decisions
